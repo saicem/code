@@ -14,3 +14,6 @@
 - [nginx](widget/nginx.md)
 - [node](widget/node.md)
 - [ssh](widget/ssh.md)
+
+## mysql
+- [timefunc](./mysql/timefunc.md)
