@@ -27,9 +27,7 @@ Update-Database
 
 - 程序不要乱起名！出了问题都找不到原因！
 - 如果一个解决方案有多个项目，要确保所有项目都能成功编译，不然会`Add-Migration`会报错。
-- Microsoft.EntityFrameworkCore.Design 有时需要有时不需要，目前不清楚。
 - CodeFirst时需要先添加主键，如果表中含有id属性，则id默认为主键。
-- 在创建表时，如果没有额外设置，除了字符串均为非null。
 
 ### 更多
 
