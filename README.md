@@ -6,6 +6,9 @@
 - [common](cs/README.md)
 - [CodeFirst](cs/codefirst.md)
 
+## shell
+- [shell](shell/README.md)
+
 ## widget
 - [cron](widget/cron.md)
 - [git](widget/git.md)
@@ -14,6 +17,7 @@
 - [nginx](widget/nginx.md)
 - [node](widget/node.md)
 - [ssh](widget/ssh.md)
+- [mailx](widget/mailx.md)
 
 ## mysql
 - [timefunc](./mysql/timefunc.md)
