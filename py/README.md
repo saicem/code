@@ -8,6 +8,8 @@ pip freeze > requirements.txt
 # 导出当前环境配置
 pip install -r requirements.txt -t .
 # 根据 requirements.txt 安装包到当前文件夹
+pip uninstall -r python_modules.txt -y
+# 删除包
 ```
 
 ## 使用清华源
