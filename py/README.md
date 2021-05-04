@@ -1,8 +1,5 @@
----
-title: python笔记<br>
-date: 2021-02-20 21:16:11
----
-# pip
+# python笔记
+## pip
 ```shell
 pip freeze > requirements.txt
 # 导出当前环境配置
@@ -12,7 +9,7 @@ pip uninstall -r python_modules.txt -y
 # 删除包
 ```
 
-## 使用清华源
+### 使用清华源
 
 写入用户文件夹下的pip文件夹下的pip.ini文件
 ```
@@ -26,7 +23,10 @@ pip install 要安装的包 -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
-# 选择表达式
+### 腾讯镜像
+https://mirrors.tencent.com/help/pypi.html
+
+## 选择表达式
 
 **先定义变量：**
 
