@@ -22,3 +22,6 @@
 
 ## mysql
 - [timefunc](./mysql/timefunc.md)
+
+## tex
+- [tex](./tex/tex.md)
